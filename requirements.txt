@@ -1,6 +1,7 @@
+Gooey
+hmmlearn
+matplotlib
+openpyxl
 pandas
 pandas-datareader
-matplotlib
-hmmlearn
 tqdm
-openpyxl

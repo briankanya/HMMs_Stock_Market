@@ -1,8 +1,11 @@
 Gooey
 hmmlearn
 matplotlib
+numpy
 openpyxl
 pandas
 pandas-datareader
 pyinstaller
 tqdm
+numpy
+scikit-learn
